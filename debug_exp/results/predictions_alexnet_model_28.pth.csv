@@ -1,0 +1,820 @@
+img_path,fl_class
+./dataset\test\image_00005.jpg,passion flower
+./dataset\test\image_00006.jpg,passion flower
+./dataset\test\image_00024.jpg,passion flower
+./dataset\test\image_00025.jpg,passion flower
+./dataset\test\image_00029.jpg,passion flower
+./dataset\test\image_00050.jpg,passion flower
+./dataset\test\image_00060.jpg,passion flower
+./dataset\test\image_00065.jpg,passion flower
+./dataset\test\image_00092.jpg,passion flower
+./dataset\test\image_00099.jpg,passion flower
+./dataset\test\image_00114.jpg,passion flower
+./dataset\test\image_00116.jpg,passion flower
+./dataset\test\image_00132.jpg,passion flower
+./dataset\test\image_00176.jpg,passion flower
+./dataset\test\image_00177.jpg,passion flower
+./dataset\test\image_00187.jpg,passion flower
+./dataset\test\image_00191.jpg,passion flower
+./dataset\test\image_00202.jpg,passion flower
+./dataset\test\image_00203.jpg,passion flower
+./dataset\test\image_00204.jpg,passion flower
+./dataset\test\image_00212.jpg,passion flower
+./dataset\test\image_00222.jpg,passion flower
+./dataset\test\image_00239.jpg,passion flower
+./dataset\test\image_00248.jpg,passion flower
+./dataset\test\image_00251.jpg,passion flower
+./dataset\test\image_00258.jpg,water lily
+./dataset\test\image_00260.jpg,water lily
+./dataset\test\image_00277.jpg,water lily
+./dataset\test\image_00282.jpg,water lily
+./dataset\test\image_00284.jpg,water lily
+./dataset\test\image_00288.jpg,water lily
+./dataset\test\image_00291.jpg,water lily
+./dataset\test\image_00294.jpg,water lily
+./dataset\test\image_00303.jpg,water lily
+./dataset\test\image_00319.jpg,water lily
+./dataset\test\image_00320.jpg,water lily
+./dataset\test\image_00324.jpg,water lily
+./dataset\test\image_00330.jpg,water lily
+./dataset\test\image_00335.jpg,water lily
+./dataset\test\image_00337.jpg,water lily
+./dataset\test\image_00345.jpg,water lily
+./dataset\test\image_00349.jpg,water lily
+./dataset\test\image_00353.jpg,water lily
+./dataset\test\image_00365.jpg,water lily
+./dataset\test\image_00369.jpg,water lily
+./dataset\test\image_00387.jpg,water lily
+./dataset\test\image_00389.jpg,water lily
+./dataset\test\image_00394.jpg,water lily
+./dataset\test\image_00400.jpg,water lily
+./dataset\test\image_00401.jpg,water lily
+./dataset\test\image_00409.jpg,water lily
+./dataset\test\image_00426.jpg,water lily
+./dataset\test\image_00445.jpg,water lily
+./dataset\test\image_00457.jpg,cyclamen
+./dataset\test\image_00467.jpg,cyclamen
+./dataset\test\image_00474.jpg,cyclamen
+./dataset\test\image_00477.jpg,lotus
+./dataset\test\image_00482.jpg,cyclamen
+./dataset\test\image_00520.jpg,cyclamen
+./dataset\test\image_00526.jpg,cyclamen
+./dataset\test\image_00540.jpg,cyclamen
+./dataset\test\image_00551.jpg,rose
+./dataset\test\image_00563.jpg,cyclamen
+./dataset\test\image_00582.jpg,cyclamen
+./dataset\test\image_00584.jpg,cyclamen
+./dataset\test\image_00594.jpg,cyclamen
+./dataset\test\image_00610.jpg,watercress
+./dataset\test\image_00617.jpg,watercress
+./dataset\test\image_00634.jpg,watercress
+./dataset\test\image_00645.jpg,watercress
+./dataset\test\image_00654.jpg,watercress
+./dataset\test\image_00676.jpg,watercress
+./dataset\test\image_00699.jpg,watercress
+./dataset\test\image_00708.jpg,watercress
+./dataset\test\image_00724.jpg,watercress
+./dataset\test\image_00726.jpg,watercress
+./dataset\test\image_00740.jpg,watercress
+./dataset\test\image_00745.jpg,watercress
+./dataset\test\image_00755.jpg,watercress
+./dataset\test\image_00756.jpg,watercress
+./dataset\test\image_00779.jpg,watercress
+./dataset\test\image_00798.jpg,frangipani
+./dataset\test\image_00814.jpg,frangipani
+./dataset\test\image_00815.jpg,primula
+./dataset\test\image_00818.jpg,frangipani
+./dataset\test\image_00825.jpg,frangipani
+./dataset\test\image_00826.jpg,frangipani
+./dataset\test\image_00828.jpg,frangipani
+./dataset\test\image_00833.jpg,frangipani
+./dataset\test\image_00869.jpg,frangipani
+./dataset\test\image_00888.jpg,frangipani
+./dataset\test\image_00898.jpg,moon orchid
+./dataset\test\image_00926.jpg,frangipani
+./dataset\test\image_00946.jpg,frangipani
+./dataset\test\image_00958.jpg,wallflower
+./dataset\test\image_00961.jpg,wallflower
+./dataset\test\image_00969.jpg,wallflower
+./dataset\test\image_00970.jpg,wallflower
+./dataset\test\image_00976.jpg,wallflower
+./dataset\test\image_00990.jpg,wallflower
+./dataset\test\image_00996.jpg,wallflower
+./dataset\test\image_00999.jpg,wallflower
+./dataset\test\image_01003.jpg,wallflower
+./dataset\test\image_01026.jpg,wallflower
+./dataset\test\image_01038.jpg,wallflower
+./dataset\test\image_01061.jpg,wallflower
+./dataset\test\image_01071.jpg,wallflower
+./dataset\test\image_01077.jpg,wallflower
+./dataset\test\image_01078.jpg,wallflower
+./dataset\test\image_01090.jpg,wallflower
+./dataset\test\image_01092.jpg,wallflower
+./dataset\test\image_01109.jpg,wallflower
+./dataset\test\image_01115.jpg,wallflower
+./dataset\test\image_01119.jpg,wallflower
+./dataset\test\image_01125.jpg,wallflower
+./dataset\test\image_01151.jpg,rose
+./dataset\test\image_01165.jpg,rose
+./dataset\test\image_01173.jpg,rose
+./dataset\test\image_01191.jpg,rose
+./dataset\test\image_01200.jpg,rose
+./dataset\test\image_01209.jpg,magnolia
+./dataset\test\image_01213.jpg,rose
+./dataset\test\image_01249.jpg,rose
+./dataset\test\image_01254.jpg,rose
+./dataset\test\image_01256.jpg,rose
+./dataset\test\image_01276.jpg,rose
+./dataset\test\image_01305.jpg,magnolia
+./dataset\test\image_01307.jpg,rose
+./dataset\test\image_01312.jpg,rose
+./dataset\test\image_01314.jpg,petunia
+./dataset\test\image_01316.jpg,petunia
+./dataset\test\image_01328.jpg,petunia
+./dataset\test\image_01335.jpg,petunia
+./dataset\test\image_01340.jpg,petunia
+./dataset\test\image_01362.jpg,petunia
+./dataset\test\image_01370.jpg,petunia
+./dataset\test\image_01388.jpg,petunia
+./dataset\test\image_01406.jpg,petunia
+./dataset\test\image_01407.jpg,petunia
+./dataset\test\image_01457.jpg,petunia
+./dataset\test\image_01468.jpg,petunia
+./dataset\test\image_01474.jpg,petunia
+./dataset\test\image_01502.jpg,poinsettia
+./dataset\test\image_01512.jpg,frangipani
+./dataset\test\image_01515.jpg,poinsettia
+./dataset\test\image_01516.jpg,poinsettia
+./dataset\test\image_01518.jpg,poinsettia
+./dataset\test\image_01527.jpg,poinsettia
+./dataset\test\image_01530.jpg,poinsettia
+./dataset\test\image_01548.jpg,poinsettia
+./dataset\test\image_01560.jpg,poinsettia
+./dataset\test\image_01564.jpg,poinsettia
+./dataset\test\image_01578.jpg,poinsettia
+./dataset\test\image_01594.jpg,clematis
+./dataset\test\image_01598.jpg,clematis
+./dataset\test\image_01599.jpg,clematis
+./dataset\test\image_01603.jpg,columbine
+./dataset\test\image_01609.jpg,petunia
+./dataset\test\image_01610.jpg,clematis
+./dataset\test\image_01614.jpg,clematis
+./dataset\test\image_01618.jpg,clematis
+./dataset\test\image_01650.jpg,petunia
+./dataset\test\image_01653.jpg,wild pansy
+./dataset\test\image_01661.jpg,garden phlox
+./dataset\test\image_01662.jpg,lenten rose
+./dataset\test\image_01666.jpg,clematis
+./dataset\test\image_01672.jpg,clematis
+./dataset\test\image_01679.jpg,wild pansy
+./dataset\test\image_01685.jpg,columbine
+./dataset\test\image_01686.jpg,clematis
+./dataset\test\image_01735.jpg,gaura
+./dataset\test\image_01737.jpg,hibiscus
+./dataset\test\image_01742.jpg,hibiscus
+./dataset\test\image_01748.jpg,hibiscus
+./dataset\test\image_01755.jpg,watercress
+./dataset\test\image_01759.jpg,hibiscus
+./dataset\test\image_01770.jpg,hibiscus
+./dataset\test\image_01774.jpg,hibiscus
+./dataset\test\image_01777.jpg,hibiscus
+./dataset\test\image_01789.jpg,hibiscus
+./dataset\test\image_01805.jpg,watercress
+./dataset\test\image_01809.jpg,hibiscus
+./dataset\test\image_01810.jpg,mallow
+./dataset\test\image_01818.jpg,hibiscus
+./dataset\test\image_01830.jpg,lotus
+./dataset\test\image_01843.jpg,lotus
+./dataset\test\image_01848.jpg,lotus
+./dataset\test\image_01855.jpg,lotus
+./dataset\test\image_01856.jpg,cyclamen
+./dataset\test\image_01874.jpg,lotus
+./dataset\test\image_01888.jpg,lotus
+./dataset\test\image_01893.jpg,lotus
+./dataset\test\image_01903.jpg,lotus
+./dataset\test\image_01919.jpg,lotus
+./dataset\test\image_01928.jpg,lotus
+./dataset\test\image_01931.jpg,lotus
+./dataset\test\image_01949.jpg,lotus
+./dataset\test\image_01953.jpg,lotus
+./dataset\test\image_01983.jpg,anthurium
+./dataset\test\image_01990.jpg,anthurium
+./dataset\test\image_01993.jpg,anthurium
+./dataset\test\image_01996.jpg,anthurium
+./dataset\test\image_02020.jpg,giant white arum lily
+./dataset\test\image_02023.jpg,anthurium
+./dataset\test\image_02041.jpg,anthurium
+./dataset\test\image_02049.jpg,anthurium
+./dataset\test\image_02051.jpg,anthurium
+./dataset\test\image_02055.jpg,anthurium
+./dataset\test\image_02062.jpg,anthurium
+./dataset\test\image_02075.jpg,thorn apple
+./dataset\test\image_02078.jpg,thorn apple
+./dataset\test\image_02085.jpg,thorn apple
+./dataset\test\image_02088.jpg,thorn apple
+./dataset\test\image_02111.jpg,thorn apple
+./dataset\test\image_02115.jpg,thorn apple
+./dataset\test\image_02119.jpg,thorn apple
+./dataset\test\image_02135.jpg,thorn apple
+./dataset\test\image_02144.jpg,thorn apple
+./dataset\test\image_02154.jpg,thorn apple
+./dataset\test\image_02157.jpg,thorn apple
+./dataset\test\image_02167.jpg,thorn apple
+./dataset\test\image_02188.jpg,thorn apple
+./dataset\test\image_02193.jpg,barbeton daisy
+./dataset\test\image_02200.jpg,barbeton daisy
+./dataset\test\image_02222.jpg,barbeton daisy
+./dataset\test\image_02237.jpg,barbeton daisy
+./dataset\test\image_02245.jpg,barbeton daisy
+./dataset\test\image_02251.jpg,barbeton daisy
+./dataset\test\image_02257.jpg,barbeton daisy
+./dataset\test\image_02261.jpg,barbeton daisy
+./dataset\test\image_02263.jpg,barbeton daisy
+./dataset\test\image_02266.jpg,barbeton daisy
+./dataset\test\image_02270.jpg,barbeton daisy
+./dataset\test\image_02302.jpg,barbeton daisy
+./dataset\test\image_02305.jpg,mexican aster
+./dataset\test\image_02306.jpg,barbeton daisy
+./dataset\test\image_02329.jpg,sword lily
+./dataset\test\image_02335.jpg,sword lily
+./dataset\test\image_02346.jpg,columbine
+./dataset\test\image_02349.jpg,sword lily
+./dataset\test\image_02365.jpg,sword lily
+./dataset\test\image_02369.jpg,sword lily
+./dataset\test\image_02370.jpg,wallflower
+./dataset\test\image_02371.jpg,petunia
+./dataset\test\image_02386.jpg,red ginger
+./dataset\test\image_02394.jpg,sword lily
+./dataset\test\image_02400.jpg,sword lily
+./dataset\test\image_02412.jpg,snapdragon
+./dataset\test\image_02426.jpg,sword lily
+./dataset\test\image_02431.jpg,sword lily
+./dataset\test\image_02433.jpg,sword lily
+./dataset\test\image_02435.jpg,sword lily
+./dataset\test\image_02472.jpg,pelargonium
+./dataset\test\image_02479.jpg,morning glory
+./dataset\test\image_02484.jpg,morning glory
+./dataset\test\image_02550.jpg,morning glory
+./dataset\test\image_02557.jpg,columbine
+./dataset\test\image_02563.jpg,columbine
+./dataset\test\image_02568.jpg,columbine
+./dataset\test\image_02572.jpg,columbine
+./dataset\test\image_02576.jpg,columbine
+./dataset\test\image_02581.jpg,columbine
+./dataset\test\image_02583.jpg,spring crocus
+./dataset\test\image_02586.jpg,columbine
+./dataset\test\image_02613.jpg,columbine
+./dataset\test\image_02615.jpg,columbine
+./dataset\test\image_02663.jpg,geranium
+./dataset\test\image_02672.jpg,geranium
+./dataset\test\image_02677.jpg,geranium
+./dataset\test\image_02681.jpg,geranium
+./dataset\test\image_02687.jpg,geranium
+./dataset\test\image_02694.jpg,geranium
+./dataset\test\image_02695.jpg,geranium
+./dataset\test\image_02719.jpg,geranium
+./dataset\test\image_02721.jpg,geranium
+./dataset\test\image_02722.jpg,geranium
+./dataset\test\image_02737.jpg,geranium
+./dataset\test\image_02738.jpg,geranium
+./dataset\test\image_02743.jpg,geranium
+./dataset\test\image_02752.jpg,geranium
+./dataset\test\image_02772.jpg,bishop of llandaff
+./dataset\test\image_02779.jpg,bishop of llandaff
+./dataset\test\image_02785.jpg,bishop of llandaff
+./dataset\test\image_02808.jpg,bishop of llandaff
+./dataset\test\image_02821.jpg,bishop of llandaff
+./dataset\test\image_02825.jpg,bishop of llandaff
+./dataset\test\image_02841.jpg,bishop of llandaff
+./dataset\test\image_02844.jpg,bishop of llandaff
+./dataset\test\image_02865.jpg,tree mallow
+./dataset\test\image_02873.jpg,tree mallow
+./dataset\test\image_02893.jpg,tree mallow
+./dataset\test\image_02910.jpg,tree mallow
+./dataset\test\image_02912.jpg,tree mallow
+./dataset\test\image_02932.jpg,pink-yellow dahlia
+./dataset\test\image_02933.jpg,pink-yellow dahlia
+./dataset\test\image_02958.jpg,pink-yellow dahlia
+./dataset\test\image_02971.jpg,pink-yellow dahlia
+./dataset\test\image_02977.jpg,pink-yellow dahlia
+./dataset\test\image_02978.jpg,pink-yellow dahlia
+./dataset\test\image_02987.jpg,pink-yellow dahlia
+./dataset\test\image_03000.jpg,pink-yellow dahlia
+./dataset\test\image_03008.jpg,pink-yellow dahlia
+./dataset\test\image_03026.jpg,pink-yellow dahlia
+./dataset\test\image_03032.jpg,bee balm
+./dataset\test\image_03039.jpg,bee balm
+./dataset\test\image_03041.jpg,bee balm
+./dataset\test\image_03044.jpg,pincushion flower
+./dataset\test\image_03048.jpg,bee balm
+./dataset\test\image_03049.jpg,bee balm
+./dataset\test\image_03052.jpg,bee balm
+./dataset\test\image_03054.jpg,bee balm
+./dataset\test\image_03056.jpg,bee balm
+./dataset\test\image_03058.jpg,bee balm
+./dataset\test\image_03075.jpg,great masterwort
+./dataset\test\image_03098.jpg,moon orchid
+./dataset\test\image_03115.jpg,bougainvillea
+./dataset\test\image_03130.jpg,snapdragon
+./dataset\test\image_03141.jpg,snapdragon
+./dataset\test\image_03147.jpg,snapdragon
+./dataset\test\image_03151.jpg,snapdragon
+./dataset\test\image_03165.jpg,frangipani
+./dataset\test\image_03176.jpg,snapdragon
+./dataset\test\image_03177.jpg,snapdragon
+./dataset\test\image_03188.jpg,californian poppy
+./dataset\test\image_03197.jpg,californian poppy
+./dataset\test\image_03211.jpg,californian poppy
+./dataset\test\image_03243.jpg,californian poppy
+./dataset\test\image_03252.jpg,californian poppy
+./dataset\test\image_03258.jpg,californian poppy
+./dataset\test\image_03269.jpg,californian poppy
+./dataset\test\image_03291.jpg,bird of paradise
+./dataset\test\image_03295.jpg,bird of paradise
+./dataset\test\image_03299.jpg,bird of paradise
+./dataset\test\image_03314.jpg,bird of paradise
+./dataset\test\image_03319.jpg,bird of paradise
+./dataset\test\image_03320.jpg,bird of paradise
+./dataset\test\image_03347.jpg,bird of paradise
+./dataset\test\image_03357.jpg,frangipani
+./dataset\test\image_03359.jpg,bird of paradise
+./dataset\test\image_03364.jpg,bird of paradise
+./dataset\test\image_03382.jpg,fritillary
+./dataset\test\image_03390.jpg,fritillary
+./dataset\test\image_03409.jpg,fritillary
+./dataset\test\image_03414.jpg,fritillary
+./dataset\test\image_03440.jpg,fritillary
+./dataset\test\image_03442.jpg,fritillary
+./dataset\test\image_03454.jpg,fritillary
+./dataset\test\image_03466.jpg,sweet william
+./dataset\test\image_03481.jpg,sweet william
+./dataset\test\image_03482.jpg,sweet william
+./dataset\test\image_03484.jpg,sweet william
+./dataset\test\image_03488.jpg,sweet william
+./dataset\test\image_03489.jpg,sweet william
+./dataset\test\image_03506.jpg,clematis
+./dataset\test\image_03509.jpg,sweet william
+./dataset\test\image_03510.jpg,sweet william
+./dataset\test\image_03512.jpg,sweet william
+./dataset\test\image_03528.jpg,sweet william
+./dataset\test\image_03538.jpg,sweet william
+./dataset\test\image_03541.jpg,sweet william
+./dataset\test\image_03542.jpg,sweet william
+./dataset\test\image_03547.jpg,sweet william
+./dataset\test\image_03575.jpg,azalea
+./dataset\test\image_03593.jpg,azalea
+./dataset\test\image_03599.jpg,azalea
+./dataset\test\image_03603.jpg,azalea
+./dataset\test\image_03613.jpg,azalea
+./dataset\test\image_03624.jpg,azalea
+./dataset\test\image_03625.jpg,azalea
+./dataset\test\image_03628.jpg,azalea
+./dataset\test\image_03633.jpg,pink-yellow dahlia
+./dataset\test\image_03635.jpg,azalea
+./dataset\test\image_03645.jpg,primula
+./dataset\test\image_03649.jpg,primula
+./dataset\test\image_03652.jpg,primula
+./dataset\test\image_03653.jpg,primula
+./dataset\test\image_03662.jpg,bougainvillea
+./dataset\test\image_03669.jpg,primula
+./dataset\test\image_03672.jpg,primula
+./dataset\test\image_03677.jpg,wallflower
+./dataset\test\image_03689.jpg,primula
+./dataset\test\image_03712.jpg,primula
+./dataset\test\image_03714.jpg,primula
+./dataset\test\image_03717.jpg,primula
+./dataset\test\image_03718.jpg,primula
+./dataset\test\image_03724.jpg,primula
+./dataset\test\image_03734.jpg,cape flower
+./dataset\test\image_03741.jpg,cape flower
+./dataset\test\image_03783.jpg,gaura
+./dataset\test\image_03789.jpg,cape flower
+./dataset\test\image_03807.jpg,cape flower
+./dataset\test\image_03811.jpg,cape flower
+./dataset\test\image_03815.jpg,cape flower
+./dataset\test\image_03821.jpg,cape flower
+./dataset\test\image_03830.jpg,purple coneflower
+./dataset\test\image_03846.jpg,purple coneflower
+./dataset\test\image_03855.jpg,purple coneflower
+./dataset\test\image_03861.jpg,purple coneflower
+./dataset\test\image_03864.jpg,purple coneflower
+./dataset\test\image_03872.jpg,purple coneflower
+./dataset\test\image_03893.jpg,purple coneflower
+./dataset\test\image_03906.jpg,purple coneflower
+./dataset\test\image_03911.jpg,purple coneflower
+./dataset\test\image_03926.jpg,petunia
+./dataset\test\image_03939.jpg,petunia
+./dataset\test\image_03954.jpg,petunia
+./dataset\test\image_03960.jpg,sweet william
+./dataset\test\image_03968.jpg,petunia
+./dataset\test\image_03973.jpg,petunia
+./dataset\test\image_03980.jpg,petunia
+./dataset\test\image_03984.jpg,petunia
+./dataset\test\image_03985.jpg,petunia
+./dataset\test\image_03986.jpg,petunia
+./dataset\test\image_03989.jpg,petunia
+./dataset\test\image_03994.jpg,colt's foot
+./dataset\test\image_03996.jpg,colt's foot
+./dataset\test\image_04012.jpg,cautleya spicata
+./dataset\test\image_04014.jpg,colt's foot
+./dataset\test\image_04016.jpg,cautleya spicata
+./dataset\test\image_04023.jpg,colt's foot
+./dataset\test\image_04052.jpg,colt's foot
+./dataset\test\image_04059.jpg,colt's foot
+./dataset\test\image_04077.jpg,colt's foot
+./dataset\test\image_04083.jpg,artichoke
+./dataset\test\image_04090.jpg,artichoke
+./dataset\test\image_04095.jpg,artichoke
+./dataset\test\image_04112.jpg,artichoke
+./dataset\test\image_04124.jpg,artichoke
+./dataset\test\image_04137.jpg,artichoke
+./dataset\test\image_04142.jpg,artichoke
+./dataset\test\image_04145.jpg,artichoke
+./dataset\test\image_04146.jpg,artichoke
+./dataset\test\image_04160.jpg,wild pansy
+./dataset\test\image_04167.jpg,wild pansy
+./dataset\test\image_04168.jpg,wild pansy
+./dataset\test\image_04169.jpg,wild pansy
+./dataset\test\image_04181.jpg,wild pansy
+./dataset\test\image_04200.jpg,wild pansy
+./dataset\test\image_04221.jpg,wild pansy
+./dataset\test\image_04240.jpg,frangipani
+./dataset\test\image_04254.jpg,peruvian lily
+./dataset\test\image_04256.jpg,peruvian lily
+./dataset\test\image_04272.jpg,peruvian lily
+./dataset\test\image_04277.jpg,peruvian lily
+./dataset\test\image_04292.jpg,peruvian lily
+./dataset\test\image_04322.jpg,peruvian lily
+./dataset\test\image_04334.jpg,ruby-lipped cattleya
+./dataset\test\image_04344.jpg,ruby-lipped cattleya
+./dataset\test\image_04364.jpg,ruby-lipped cattleya
+./dataset\test\image_04373.jpg,ruby-lipped cattleya
+./dataset\test\image_04382.jpg,ruby-lipped cattleya
+./dataset\test\image_04392.jpg,frangipani
+./dataset\test\image_04400.jpg,cape flower
+./dataset\test\image_04405.jpg,snapdragon
+./dataset\test\image_04407.jpg,canna lily
+./dataset\test\image_04417.jpg,canna lily
+./dataset\test\image_04420.jpg,wallflower
+./dataset\test\image_04426.jpg,mallow
+./dataset\test\image_04428.jpg,canna lily
+./dataset\test\image_04430.jpg,yellow iris
+./dataset\test\image_04431.jpg,wallflower
+./dataset\test\image_04432.jpg,watercress
+./dataset\test\image_04458.jpg,fire lily
+./dataset\test\image_04459.jpg,rose
+./dataset\test\image_04468.jpg,peruvian lily
+./dataset\test\image_04469.jpg,bird of paradise
+./dataset\test\image_04473.jpg,canna lily
+./dataset\test\image_04482.jpg,gazania
+./dataset\test\image_04488.jpg,gazania
+./dataset\test\image_04512.jpg,gazania
+./dataset\test\image_04514.jpg,gazania
+./dataset\test\image_04515.jpg,gazania
+./dataset\test\image_04519.jpg,gazania
+./dataset\test\image_04524.jpg,gazania
+./dataset\test\image_04555.jpg,gazania
+./dataset\test\image_04557.jpg,gazania
+./dataset\test\image_04563.jpg,lenten rose
+./dataset\test\image_04568.jpg,japanese anemone
+./dataset\test\image_04573.jpg,mexican aster
+./dataset\test\image_04582.jpg,lenten rose
+./dataset\test\image_04586.jpg,lenten rose
+./dataset\test\image_04587.jpg,lenten rose
+./dataset\test\image_04588.jpg,lenten rose
+./dataset\test\image_04609.jpg,lenten rose
+./dataset\test\image_04627.jpg,buttercup
+./dataset\test\image_04663.jpg,buttercup
+./dataset\test\image_04665.jpg,buttercup
+./dataset\test\image_04667.jpg,buttercup
+./dataset\test\image_04671.jpg,camellia
+./dataset\test\image_04701.jpg,pelargonium
+./dataset\test\image_04707.jpg,pelargonium
+./dataset\test\image_04731.jpg,pelargonium
+./dataset\test\image_04733.jpg,pelargonium
+./dataset\test\image_04740.jpg,pelargonium
+./dataset\test\image_04742.jpg,pelargonium
+./dataset\test\image_04747.jpg,pelargonium
+./dataset\test\image_04786.jpg,cyclamen
+./dataset\test\image_04797.jpg,desert-rose
+./dataset\test\image_04801.jpg,desert-rose
+./dataset\test\image_04805.jpg,desert-rose
+./dataset\test\image_04806.jpg,desert-rose
+./dataset\test\image_04808.jpg,desert-rose
+./dataset\test\image_04810.jpg,desert-rose
+./dataset\test\image_04814.jpg,desert-rose
+./dataset\test\image_04819.jpg,desert-rose
+./dataset\test\image_04825.jpg,desert-rose
+./dataset\test\image_04851.jpg,hippeastrum
+./dataset\test\image_04856.jpg,hippeastrum
+./dataset\test\image_04860.jpg,peruvian lily
+./dataset\test\image_04870.jpg,hippeastrum
+./dataset\test\image_04875.jpg,hippeastrum
+./dataset\test\image_04883.jpg,hippeastrum
+./dataset\test\image_04890.jpg,hippeastrum
+./dataset\test\image_04910.jpg,giant white arum lily
+./dataset\test\image_04912.jpg,giant white arum lily
+./dataset\test\image_04938.jpg,pelargonium
+./dataset\test\image_04966.jpg,marigold
+./dataset\test\image_04993.jpg,marigold
+./dataset\test\image_05013.jpg,marigold
+./dataset\test\image_05020.jpg,orange dahlia
+./dataset\test\image_05033.jpg,orange dahlia
+./dataset\test\image_05038.jpg,orange dahlia
+./dataset\test\image_05039.jpg,orange dahlia
+./dataset\test\image_05052.jpg,orange dahlia
+./dataset\test\image_05064.jpg,orange dahlia
+./dataset\test\image_05067.jpg,orange dahlia
+./dataset\test\image_05100.jpg,hard-leaved pocket orchid
+./dataset\test\image_05107.jpg,hard-leaved pocket orchid
+./dataset\test\image_05109.jpg,hard-leaved pocket orchid
+./dataset\test\image_05125.jpg,hard-leaved pocket orchid
+./dataset\test\image_05133.jpg,hard-leaved pocket orchid
+./dataset\test\image_05159.jpg,english marigold
+./dataset\test\image_05166.jpg,english marigold
+./dataset\test\image_05169.jpg,common dandelion
+./dataset\test\image_05186.jpg,english marigold
+./dataset\test\image_05214.jpg,stemless gentian
+./dataset\test\image_05230.jpg,stemless gentian
+./dataset\test\image_05242.jpg,stemless gentian
+./dataset\test\image_05253.jpg,grape hyacinth
+./dataset\test\image_05270.jpg,stemless gentian
+./dataset\test\image_05277.jpg,stemless gentian
+./dataset\test\image_05308.jpg,tree poppy
+./dataset\test\image_05324.jpg,tree poppy
+./dataset\test\image_05330.jpg,tree poppy
+./dataset\test\image_05331.jpg,tree poppy
+./dataset\test\image_05360.jpg,pincushion flower
+./dataset\test\image_05362.jpg,pincushion flower
+./dataset\test\image_05366.jpg,pincushion flower
+./dataset\test\image_05391.jpg,pincushion flower
+./dataset\test\image_05402.jpg,sunflower
+./dataset\test\image_05413.jpg,sunflower
+./dataset\test\image_05430.jpg,sunflower
+./dataset\test\image_05440.jpg,sunflower
+./dataset\test\image_05462.jpg,magnolia
+./dataset\test\image_05466.jpg,magnolia
+./dataset\test\image_05469.jpg,magnolia
+./dataset\test\image_05485.jpg,magnolia
+./dataset\test\image_05488.jpg,magnolia
+./dataset\test\image_05493.jpg,magnolia
+./dataset\test\image_05537.jpg,osteospermum
+./dataset\test\image_05549.jpg,osteospermum
+./dataset\test\image_05562.jpg,osteospermum
+./dataset\test\image_05582.jpg,osteospermum
+./dataset\test\image_05591.jpg,desert-rose
+./dataset\test\image_05592.jpg,garden phlox
+./dataset\test\image_05595.jpg,columbine
+./dataset\test\image_05602.jpg,garden phlox
+./dataset\test\image_05610.jpg,wallflower
+./dataset\test\image_05614.jpg,garden phlox
+./dataset\test\image_05636.jpg,bromelia
+./dataset\test\image_05637.jpg,sweet pea
+./dataset\test\image_05640.jpg,sweet pea
+./dataset\test\image_05653.jpg,monkshood
+./dataset\test\image_05658.jpg,rose
+./dataset\test\image_05678.jpg,rose
+./dataset\test\image_05696.jpg,daffodil
+./dataset\test\image_05711.jpg,daffodil
+./dataset\test\image_05730.jpg,wallflower
+./dataset\test\image_05731.jpg,daffodil
+./dataset\test\image_05745.jpg,king protea
+./dataset\test\image_05761.jpg,artichoke
+./dataset\test\image_05767.jpg,king protea
+./dataset\test\image_05769.jpg,king protea
+./dataset\test\image_05775.jpg,king protea
+./dataset\test\image_05787.jpg,artichoke
+./dataset\test\image_05796.jpg,great masterwort
+./dataset\test\image_05797.jpg,great masterwort
+./dataset\test\image_05799.jpg,great masterwort
+./dataset\test\image_05806.jpg,great masterwort
+./dataset\test\image_05812.jpg,great masterwort
+./dataset\test\image_05824.jpg,great masterwort
+./dataset\test\image_05825.jpg,great masterwort
+./dataset\test\image_05833.jpg,great masterwort
+./dataset\test\image_05875.jpg,black-eyed susan
+./dataset\test\image_05878.jpg,black-eyed susan
+./dataset\test\image_05882.jpg,black-eyed susan
+./dataset\test\image_05890.jpg,black-eyed susan
+./dataset\test\image_05903.jpg,columbine
+./dataset\test\image_05927.jpg,bearded iris
+./dataset\test\image_05956.jpg,bearded iris
+./dataset\test\image_05959.jpg,windflower
+./dataset\test\image_05971.jpg,windflower
+./dataset\test\image_05994.jpg,windflower
+./dataset\test\image_06014.jpg,ball moss
+./dataset\test\image_06017.jpg,ball moss
+./dataset\test\image_06021.jpg,ball moss
+./dataset\test\image_06031.jpg,bougainvillea
+./dataset\test\image_06033.jpg,ball moss
+./dataset\test\image_06037.jpg,ball moss
+./dataset\test\image_06052.jpg,spear thistle
+./dataset\test\image_06083.jpg,artichoke
+./dataset\test\image_06091.jpg,spear thistle
+./dataset\test\image_06099.jpg,silverbush
+./dataset\test\image_06104.jpg,silverbush
+./dataset\test\image_06130.jpg,silverbush
+./dataset\test\image_06134.jpg,silverbush
+./dataset\test\image_06138.jpg,silverbush
+./dataset\test\image_06155.jpg,balloon flower
+./dataset\test\image_06159.jpg,balloon flower
+./dataset\test\image_06170.jpg,balloon flower
+./dataset\test\image_06175.jpg,balloon flower
+./dataset\test\image_06186.jpg,balloon flower
+./dataset\test\image_06196.jpg,balloon flower
+./dataset\test\image_06197.jpg,balloon flower
+./dataset\test\image_06202.jpg,oxeye daisy
+./dataset\test\image_06213.jpg,oxeye daisy
+./dataset\test\image_06215.jpg,oxeye daisy
+./dataset\test\image_06248.jpg,cautleya spicata
+./dataset\test\image_06249.jpg,cautleya spicata
+./dataset\test\image_06251.jpg,cautleya spicata
+./dataset\test\image_06266.jpg,cautleya spicata
+./dataset\test\image_06271.jpg,cautleya spicata
+./dataset\test\image_06279.jpg,cautleya spicata
+./dataset\test\image_06284.jpg,cautleya spicata
+./dataset\test\image_06290.jpg,cautleya spicata
+./dataset\test\image_06297.jpg,colt's foot
+./dataset\test\image_06318.jpg,common dandelion
+./dataset\test\image_06319.jpg,common dandelion
+./dataset\test\image_06320.jpg,common dandelion
+./dataset\test\image_06321.jpg,common dandelion
+./dataset\test\image_06351.jpg,yellow iris
+./dataset\test\image_06360.jpg,yellow iris
+./dataset\test\image_06369.jpg,yellow iris
+./dataset\test\image_06374.jpg,bird of paradise
+./dataset\test\image_06410.jpg,monkshood
+./dataset\test\image_06413.jpg,monkshood
+./dataset\test\image_06454.jpg,artichoke
+./dataset\test\image_06456.jpg,love in the mist
+./dataset\test\image_06457.jpg,love in the mist
+./dataset\test\image_06460.jpg,love in the mist
+./dataset\test\image_06470.jpg,love in the mist
+./dataset\test\image_06478.jpg,love in the mist
+./dataset\test\image_06479.jpg,love in the mist
+./dataset\test\image_06486.jpg,love in the mist
+./dataset\test\image_06497.jpg,corn poppy
+./dataset\test\image_06498.jpg,wallflower
+./dataset\test\image_06500.jpg,corn poppy
+./dataset\test\image_06514.jpg,corn poppy
+./dataset\test\image_06526.jpg,corn poppy
+./dataset\test\image_06541.jpg,common dandelion
+./dataset\test\image_06546.jpg,common dandelion
+./dataset\test\image_06547.jpg,common dandelion
+./dataset\test\image_06580.jpg,grape hyacinth
+./dataset\test\image_06582.jpg,grape hyacinth
+./dataset\test\image_06583.jpg,grape hyacinth
+./dataset\test\image_06593.jpg,grape hyacinth
+./dataset\test\image_06611.jpg,grape hyacinth
+./dataset\test\image_06634.jpg,sweet pea
+./dataset\test\image_06641.jpg,canterbury bells
+./dataset\test\image_06657.jpg,globe-flower
+./dataset\test\image_06670.jpg,watercress
+./dataset\test\image_06673.jpg,californian poppy
+./dataset\test\image_06708.jpg,toad lily
+./dataset\test\image_06720.jpg,toad lily
+./dataset\test\image_06726.jpg,toad lily
+./dataset\test\image_06743.jpg,pink primrose
+./dataset\test\image_06752.jpg,tree mallow
+./dataset\test\image_06754.jpg,pink primrose
+./dataset\test\image_06760.jpg,pink primrose
+./dataset\test\image_06764.jpg,pink primrose
+./dataset\test\image_06805.jpg,fire lily
+./dataset\test\image_06807.jpg,cautleya spicata
+./dataset\test\image_06815.jpg,red ginger
+./dataset\test\image_06849.jpg,bee balm
+./dataset\test\image_06864.jpg,prince of wales feathers
+./dataset\test\image_06871.jpg,prince of wales feathers
+./dataset\test\image_06887.jpg,prince of wales feathers
+./dataset\test\image_06903.jpg,carnation
+./dataset\test\image_06929.jpg,mexican aster
+./dataset\test\image_06933.jpg,mexican aster
+./dataset\test\image_06941.jpg,mexican aster
+./dataset\test\image_06954.jpg,mexican aster
+./dataset\test\image_06961.jpg,mexican aster
+./dataset\test\image_06984.jpg,alpine sea holly
+./dataset\test\image_06986.jpg,alpine sea holly
+./dataset\test\image_06992.jpg,alpine sea holly
+./dataset\test\image_07006.jpg,alpine sea holly
+./dataset\test\image_07010.jpg,siam tulip
+./dataset\test\image_07016.jpg,siam tulip
+./dataset\test\image_07018.jpg,sword lily
+./dataset\test\image_07035.jpg,pelargonium
+./dataset\test\image_07043.jpg,snapdragon
+./dataset\test\image_07056.jpg,spring crocus
+./dataset\test\image_07079.jpg,passion flower
+./dataset\test\image_07080.jpg,spring crocus
+./dataset\test\image_07082.jpg,spring crocus
+./dataset\test\image_07090.jpg,globe thistle
+./dataset\test\image_07104.jpg,globe thistle
+./dataset\test\image_07117.jpg,globe thistle
+./dataset\test\image_07139.jpg,bolero deep blue
+./dataset\test\image_07140.jpg,thorn apple
+./dataset\test\image_07142.jpg,bolero deep blue
+./dataset\test\image_07173.jpg,tiger lily
+./dataset\test\image_07181.jpg,tiger lily
+./dataset\test\image_07182.jpg,tiger lily
+./dataset\test\image_07185.jpg,yellow iris
+./dataset\test\image_07191.jpg,king protea
+./dataset\test\image_07198.jpg,tiger lily
+./dataset\test\image_07199.jpg,blackberry lily
+./dataset\test\image_07211.jpg,moon orchid
+./dataset\test\image_07215.jpg,moon orchid
+./dataset\test\image_07218.jpg,lenten rose
+./dataset\test\image_07219.jpg,moon orchid
+./dataset\test\image_07234.jpg,gaura
+./dataset\test\image_07241.jpg,gaura
+./dataset\test\image_07242.jpg,gaura
+./dataset\test\image_07250.jpg,gaura
+./dataset\test\image_07266.jpg,gaura
+./dataset\test\image_07267.jpg,gaura
+./dataset\test\image_07269.jpg,japanese anemone
+./dataset\test\image_07276.jpg,japanese anemone
+./dataset\test\image_07308.jpg,foxglove
+./dataset\test\image_07327.jpg,foxglove
+./dataset\test\image_07333.jpg,foxglove
+./dataset\test\image_07346.jpg,foxglove
+./dataset\test\image_07352.jpg,foxglove
+./dataset\test\image_07357.jpg,foxglove
+./dataset\test\image_07358.jpg,cape flower
+./dataset\test\image_07361.jpg,foxglove
+./dataset\test\image_07370.jpg,foxglove
+./dataset\test\image_07388.jpg,foxglove
+./dataset\test\image_07395.jpg,foxglove
+./dataset\test\image_07399.jpg,foxglove
+./dataset\test\image_07400.jpg,foxglove
+./dataset\test\image_07415.jpg,foxglove
+./dataset\test\image_07434.jpg,foxglove
+./dataset\test\image_07436.jpg,foxglove
+./dataset\test\image_07468.jpg,bougainvillea
+./dataset\test\image_07470.jpg,cape flower
+./dataset\test\image_07472.jpg,bougainvillea
+./dataset\test\image_07487.jpg,bougainvillea
+./dataset\test\image_07505.jpg,wallflower
+./dataset\test\image_07508.jpg,bougainvillea
+./dataset\test\image_07514.jpg,bougainvillea
+./dataset\test\image_07519.jpg,bougainvillea
+./dataset\test\image_07536.jpg,bougainvillea
+./dataset\test\image_07550.jpg,bougainvillea
+./dataset\test\image_07551.jpg,petunia
+./dataset\test\image_07561.jpg,bougainvillea
+./dataset\test\image_07573.jpg,bougainvillea
+./dataset\test\image_07584.jpg,trumpet creeper
+./dataset\test\image_07596.jpg,camellia
+./dataset\test\image_07597.jpg,camellia
+./dataset\test\image_07606.jpg,camellia
+./dataset\test\image_07622.jpg,camellia
+./dataset\test\image_07646.jpg,wallflower
+./dataset\test\image_07668.jpg,camellia
+./dataset\test\image_07672.jpg,camellia
+./dataset\test\image_07676.jpg,mallow
+./dataset\test\image_07683.jpg,mallow
+./dataset\test\image_07696.jpg,mallow
+./dataset\test\image_07708.jpg,mallow
+./dataset\test\image_07709.jpg,water lily
+./dataset\test\image_07719.jpg,mallow
+./dataset\test\image_07737.jpg,mallow
+./dataset\test\image_07753.jpg,mexican petunia
+./dataset\test\image_07758.jpg,wild pansy
+./dataset\test\image_07777.jpg,mexican petunia
+./dataset\test\image_07787.jpg,mexican petunia
+./dataset\test\image_07833.jpg,bromelia
+./dataset\test\image_07838.jpg,bromelia
+./dataset\test\image_07840.jpg,fire lily
+./dataset\test\image_07854.jpg,bromelia
+./dataset\test\image_07857.jpg,bromelia
+./dataset\test\image_07871.jpg,bromelia
+./dataset\test\image_07874.jpg,bromelia
+./dataset\test\image_07896.jpg,blanket flower
+./dataset\test\image_07897.jpg,blanket flower
+./dataset\test\image_07899.jpg,blanket flower
+./dataset\test\image_07902.jpg,blanket flower
+./dataset\test\image_07926.jpg,blanket flower
+./dataset\test\image_07936.jpg,blanket flower
+./dataset\test\image_07938.jpg,blanket flower
+./dataset\test\image_07939.jpg,blanket flower
+./dataset\test\image_07949.jpg,trumpet creeper
+./dataset\test\image_07952.jpg,trumpet creeper
+./dataset\test\image_07983.jpg,trumpet creeper
+./dataset\test\image_07988.jpg,rose
+./dataset\test\image_08004.jpg,blackberry lily
+./dataset\test\image_08012.jpg,blackberry lily
+./dataset\test\image_08015.jpg,blackberry lily
+./dataset\test\image_08023.jpg,blackberry lily
+./dataset\test\image_08030.jpg,blackberry lily
+./dataset\test\image_08042.jpg,blackberry lily
+./dataset\test\image_08061.jpg,hippeastrum
+./dataset\test\image_08070.jpg,carnation
+./dataset\test\image_08084.jpg,alpine sea holly
+./dataset\test\image_08088.jpg,alpine sea holly
+./dataset\test\image_08099.jpg,moon orchid
+./dataset\test\image_08104.jpg,moon orchid
+./dataset\test\image_08106.jpg,tiger lily
+./dataset\test\image_08108.jpg,tiger lily
+./dataset\test\image_08127.jpg,gaura
+./dataset\test\image_08129.jpg,gaura
+./dataset\test\image_08133.jpg,gaura
+./dataset\test\image_08134.jpg,gaura
+./dataset\test\image_08144.jpg,gaura
+./dataset\test\image_08172.jpg,columbine
+./dataset\test\image_08177.jpg,japanese anemone
