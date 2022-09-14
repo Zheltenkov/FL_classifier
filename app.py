@@ -1,9 +1,14 @@
+import base64
 import streamlit as st
 from config.config import parse_args
 from scripts.test import get_prediction
 
+@st.experimental_memo
+def get_img_as_base64(file):
+    with open(file, 'rb') as f:
+        data = f.read()
+    return base64.b64encode(data).decode()
 
-args = parse_args()
 
 st.set_page_config(
      page_title="Flower Classifier App",
@@ -11,16 +16,32 @@ st.set_page_config(
      layout="centered",
      initial_sidebar_state="expanded")
 
-m = st.markdown("""
-<style>
-div.stButton > button:first-child {
-    background-color: rgb(204, 49, 49);
-}
-</style>""", unsafe_allow_html=True)
+args = parse_args()
+img_bgd = get_img_as_base64('./data/application/background.jpg')
 
+page_bg_img = (f"""
+<style>
+[data-testid="stAppViewContainer"]{{
+background-image: url("data:image/png;base64,{img_bgd}");
+background-size: cover;
+}}
+
+div.stButton > button:first-child {{
+background-color: #555555;
+height:50px; width:200px; border: none; font-size: 26px;
+color: rgb(255, 255, 255); 
+}}
+
+span.class="css-10trblm e16nr0p30"{{
+style="color:#ff6347";
+}} 
+
+</style>
+""")
+
+m = st.markdown(page_bg_img, unsafe_allow_html=True)
 
 st.title('Flower classifier')
-st.image('data/application/front_page.jpg')
 st.subheader('Load flowers images')
 
 uploaded_file = st.file_uploader("",
