@@ -6,10 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="fe1e4bef-2bdb-40b2-ade2-61d54c37b23f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.dockerignore" beforeDir="false" afterPath="$PROJECT_DIR$/.dockerignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,6 +97,8 @@
       <workItem from="1663330259997" duration="2694000" />
       <workItem from="1663338300749" duration="38000" />
       <workItem from="1663338349861" duration="159000" />
+      <workItem from="1663338598176" duration="354000" />
+      <workItem from="1663338970112" duration="704000" />
     </task>
     <servers />
   </component>

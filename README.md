@@ -1,5 +1,5 @@
-# FL_classifier
+# Flower classifier
 
 ![FLOWERS!](readme.jpg)
 
-This repository provides a classifier model for 102 flower varieties. The project was implemented as part of a competition on the kaggle platform.
+This project is an application for classifying flower varieties by photo. The data was taken from the kaggle platform. The project was implemented as part of a competition on the kaggle platform.
