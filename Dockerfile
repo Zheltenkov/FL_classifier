@@ -1,15 +1,17 @@
-FROM python:3.8
+# app/Dockerfile
 
-CMD mkdir /fl_app
+FROM python:3.9-slim
 
 WORKDIR /fl_app
 
-COPY requirements.txt ./requirements.txt
+COPY requirements.txt /fl_app
 
 RUN pip3 install -r requirements.txt
 
-EXPOSE 8501
+COPY . .
 
-COPY . /fl_app
+ENV PORT 8501
 
-CMD streamlit run app.py
+EXPOSE $PORT
+
+ENTRYPOINT ["streamlit", "run", "app.py", "--server.port=8501", "--server.address=0.0.0.0"]
