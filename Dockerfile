@@ -6,6 +6,8 @@ WORKDIR /fl_app
 
 COPY requirements.txt /fl_app
 
+RUN python -m pip install --upgrade pip
+
 RUN pip3 install -r requirements.txt
 
 COPY . .

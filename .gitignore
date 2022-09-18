@@ -1,0 +1,7 @@
+# IntelliJ project files
+.idea
+data/prediction
+data/input_data
+dataset
+debug_exp/model
+venv
